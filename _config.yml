@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "NULLIUS IN VERBA"
 title_separator          : "-"
 name                     : "Chang-Ye Tu"
-description              : "PhD in Actuarial Science, National Chengchi University, Taipei, Taiwan"
+description              : ""
 url                      : "https://chang-ye-tu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chang-ye-tu/chang-ye-tu.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Chang-Ye Tu"
   avatar           : "profile.png"
-  bio              : "PhD in Actuarial Science, National Chengchi University, Taipei, Taiwan"
+  bio              : ""
   location         : "Tainan, Taiwan"
   employer         :
   pubmed           :
