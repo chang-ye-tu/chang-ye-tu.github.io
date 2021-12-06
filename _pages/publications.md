@@ -35,7 +35,7 @@ author_profile: true
 
 ## Preprint (submitted)
 
- W. Hsuan,  C.-Y. Tu,  S.-C. Chang, "On Merton&apos;s Optimal Consumption-Investment Problem: A Lie Group Analysis Approach."
+ W. Hsuan,  C.-Y. Tu,  S.-C. Chang, "On Merton&apos;s Optimal Consumption-Investment Problem: A Lie Symmetry Analysis Approach."
 <a href="https://chang-ye-tu.github.io/files/pdf/research/lie.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/lie"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
  C.-Y. Tu,  S.-C. Chang, "Optimal Insurance Solvency Regulatory Schemes Under the Early Warning System."
