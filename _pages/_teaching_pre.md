@@ -3,20 +3,6 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-- **Calculus**
-  - [github](https://github.com/chang-ye-tu/calc)
-
-- **Operations Research**
-  - [github](https://github.com/chang-ye-tu/or)
-
-- **Introduction to Financial Models**
-  - [github](https://github.com/chang-ye-tu/fin)
-
-- **Data Science and R**
-  - [github](https://github.com/chang-ye-tu/r)
-
-Miscellanenous
-
 - **Support Vector Machines**
   - Support vector machines (SVMs) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. Here I discuss their close ties with the convex programming problem.
   - [slide](/files/pdf/teaching/svm.pdf)
