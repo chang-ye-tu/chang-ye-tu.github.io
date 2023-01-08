@@ -17,6 +17,9 @@ author_profile: true
  S.-C. Chang,  Y.-K. Lee,  W. Hsuan,  C.-Y. Tu, "Allocating Overseas: Risk Assessment of Currency Hedging in Taiwan Life Insurance Industry." Asia-Pacific Journal of Risk and Insurance, vol. 14, no. 1, pp. 1--16, 2020. (EconLit)
 <a href="https://doi.org/10.1515/apjri-2018-0015"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
+ C.-Y. Tu,  S.-C. Chang, "Numerical Valuation of Double Barrier Options: The Finite Element Method Approach." Journal of Risk Management, vol. 21, no. 1, pp. 5--21, 2019.
+<a href="https://chang-ye-tu.github.io/files/pdf/research/fem_tw.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/fem"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
  S.-C. Chang,  C.-Y. Tu, "Optimal Asset Allocation under the Liquidity Constraint." Journal of Risk Management, vol. 20, no. 2, pp. 85--105, 2018.
 <a href="https://chang-ye-tu.github.io/files/pdf/research/illiquid.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
@@ -27,11 +30,6 @@ author_profile: true
 
  S.-C. Chang,  C.-H. Tsai,  C.-J. Tien,  C.-Y. Tu, "Dynamic Funding and Investment Strategy for Defined Benefit Pension Schemes: Model Incorporating Asset-Liability Matching Criterions." Journal of Actuarial Practice, vol. 10, pp. 131--155, 2002.
 <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1039&context=joap"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-
-## Journal Articles (forthcoming)
-
- S.-C. Chang,  C.-Y. Tu, "Numerical Valuation of Double Barrier Options: The Finite Element Method Approach." Journal of Risk Management, 2021.
-<a href="https://chang-ye-tu.github.io/files/pdf/research/fem_tw.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/fem"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 ## Preprint (submitted)
 

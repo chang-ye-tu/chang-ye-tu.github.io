@@ -1,0 +1,46 @@
+---
+permalink: /teaching/
+title: "Teaching"
+---
+
+- **Calculus**
+  - [github](https://github.com/chang-ye-tu/calc)
+
+- **Operations Research**
+  - [github](https://github.com/chang-ye-tu/or)
+
+- **Introduction to Financial Models**
+  - [github](https://github.com/chang-ye-tu/fin)
+
+- **Data Science and R**
+  - [github](https://github.com/chang-ye-tu/r)
+
+Miscellanenous
+
+- **Support Vector Machines**
+  - Support vector machines (SVMs) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. Here I discuss their close ties with the convex programming problem.
+  - [slide](/files/pdf/teaching/svm.pdf)
+- **Symmetry Methods for Differential Equations**
+  - Here I introduce the essential ideas of Lie group analysis for constructing the nontrivial (invariant) solutions of differential equations and demonstrate its usage through some examples.
+  - [slide](/files/pdf/teaching/lie.pdf)
+- **Elementary Methods in Exotic Option Pricing Under Black-Scholes Framework**
+  - Using the Method of Images known to physicists and applied mathematicians which exploits the symmetry and the boundary conditions of the underlying Black-Scholes equation, the pricing of barrier options becomes much simpler than using traditional probabilistic arguments. This is a summary of Chapter 7 in Buchen's "An Introduction to Exotic Option Pricing". 
+  - [slide](/files/pdf/teaching/buchen.pdf)
+- **Copula: An Introduction**
+  - The notion of copula is introduced in this short note; the notion is natural in view of the elementary result: Given a $[0,1]$-uniformly distributed random variable $U$ and a cdf $F$, the random variable $X\equiv F^{-1}(U)$ has the cdf $F$; the random variable $U\equiv F_X(X)$ is uniformly distributed on $[0, 1]$.
+  - [slide](/files/pdf/teaching/copula.pdf)
+- **The Binomial Model**
+  - The binomial model is the simplest nontrivial example of a financial market, and it already encompasses many of the important ideas in finance: the notion of $\mathbb{P}$, $\mathbb{Q}$ measure, arbitrage, hedging, etc. Here I followed the text "Arbitrage Theory in Continuous Time" of Björk closely. 
+  - [slide](/files/pdf/teaching/binomial.pdf)
+- **Survival Models** 
+  - The future lifetime of an individual is represented as a random variable, and probabilities of death or survival are calculated under this framework. The force of mortality and other actuarial notation are defined and properties of the distribution of future lifetime are discussed. This is the content of Chapter 2 in Hardy et. al. "Actuarial Mathematics for Life Contingent Risks".
+  - [slide](/files/pdf/teaching/hardy_ch2.pdf)
+- **Monte Carlo Method in American Option Pricing**
+  - In this short note I report the result of Kohler M. "A Review on Regression-Based Monte Carlo Method for Pricing American Options".  
+  - [slide](/files/pdf/teaching/american_regression.pdf)
+- **Value at Risk / Expected Shortfall**
+  - Value at Risk (VaR) is a measure of the risk of loss for investments, and it estimates how much a set of investments might lose given market conditions in a set time period. Expected Shortfall (ES) is an alternative to VaR that is more sensitive to the shape of the tail of the loss distribution. Here the notion of coherent risk measure is introduced to unify these ideas. 
+  - [slide](/files/pdf/teaching/var.pdf)
+- **Introduction to the Lee-Carter Model** 
+  - Here the construction of life tables, the Lee-Carter model and its calibration via principal compenent analysis (PCA) and singular value decomposition (SVD) are discussed. 
+  - [slide](/files/pdf/teaching/lee_carter.pdf)
