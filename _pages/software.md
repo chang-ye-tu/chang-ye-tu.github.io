@@ -33,4 +33,3 @@ At the heart of this suite is the integrated pdf & djvu reader and theorem 'harv
 <p align="center">
  <img src="https://chang-ye-tu.github.io/files/img/ananda/ed1.jpg" width="800"/>
 </p>
-
