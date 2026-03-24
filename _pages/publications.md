@@ -8,7 +8,10 @@ author_profile: true
 
 ## Journal Articles (peer reviewed)
 
- Tu C.-Y.,  Chang S.-C., "Estimation of Reinvestment Risk of International Bonds." Review of Securities and Future Markets, vol. 33, no. 4, pp. 77--102, 2021. (TSSCI)
+ Hsuan W.,  Tu C.-Y., "On Merton&apos;s Optimal Consumption-Investment Problem: A Lie Symmetry Analysis Approach." Journal of Mathematical Analysis and Applications, vol. 561, no. 2, 130575, 2026. (2024 SCIE Mathematics Q1)
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X26001873"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/lie"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
+ Tu C.-Y.,  Chang S.-C., "Estimation of Reinvestment Risk of International Bonds." Review of Securities and Future Markets, vol. 33, no. 4, pp. 77--102, 2021. (TSSCI Tier 1)
 <a href="https://chang-ye-tu.github.io/files/pdf/research/reinv_tw.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/reinv"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
  Chang S.-C.,  Tu C.-Y., "Dynamic Hedging of Options by Deep Learning." Insurance Monograph, vol. 36, no. 4, pp. 1--20, 2020.
@@ -33,14 +36,10 @@ author_profile: true
 
 ## Preprint (submitted)
 
- Hsuan W.,  Tu C.-Y., "On Merton&apos;s Optimal Consumption-Investment Problem: A Lie Symmetry Analysis Approach."
-<a href="https://chang-ye-tu.github.io/files/pdf/research/lie.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/lie"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 ## Working Papers
 
  Hsuan W.,  Tu C.-Y., "Insurance Market Equilibrium with Catastrophic Risk: A Continuous-Time Mean-Variance Analysis."
-
- Hsuan W.,  Tu C.-Y., "Quantifying Reinvestment Risk in International Bonds: A Random Neural Networks Approach."
 
  Tu C.-Y.,  Chang S.-C., "Optimal Insurance Solvency Regulatory Schemes Under the Early Warning System."
 <a href="https://chang-ye-tu.github.io/files/pdf/research/reg.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> <a href="https://github.com/chang-ye-tu/reg"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>

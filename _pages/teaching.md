@@ -8,3 +8,5 @@ title: "Teaching"
 - **Introduction to Financial Models** <a href="https://github.com/chang-ye-tu/fin"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 - **Data Science and R** <a href="https://github.com/chang-ye-tu/r"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 - **Introduction to Complex Analysis** <a href="https://github.com/chang-ye-tu/cf"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+- **Business Data Analysis** <a href="https://github.com/chang-ye-tu/bda"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+- **Multivariate Analysis** <a href="https://github.com/chang-ye-tu/mva"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
